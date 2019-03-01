@@ -1,2 +1,2 @@
-# CPE-excertest02
-by 0567
+# lab-exam2
+by Goravit Buakampun 6106100567
